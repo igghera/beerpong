@@ -1,4 +1,4 @@
-package com.andreagherardi.simplebox2dexample;
+package com.andreagherardi.beerpong;
 
 import nme.display.Sprite;
 import nme.events.Event;
@@ -16,7 +16,7 @@ import box2D.dynamics.B2FixtureDef;
 import box2D.common.B2Settings;
 import nme.utils.Timer;
 import nme.events.TimerEvent;
-import com.andreagherardi.simplebox2dexample.utils.Stats;
+import com.andreagherardi.beerpong.utils.Stats;
 import nme.display.Bitmap;
 import nme.display.BitmapData;
 import nme.events.MouseEvent;

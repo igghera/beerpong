@@ -1,4 +1,4 @@
-package path.to.package
+package com.andreagherardi.beerpong.view;
 
 import nme.display.Sprite;
 

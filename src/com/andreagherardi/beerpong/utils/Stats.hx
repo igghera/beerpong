@@ -1,4 +1,4 @@
-package com.andreagherardi.simplebox2dexample.utils;
+package com.andreagherardi.beerpong.utils;
 
 import nme.Lib;
 import nme.events.Event;
@@ -22,7 +22,7 @@ class Stats extends TextField
 	public function new( color : Int = 0xFFFFFF, bgColor : Int = 0 ) : Void
 	{
 		super();
-		
+
 		max = 0;
 
 		var tf : TextFormat = new TextFormat();
